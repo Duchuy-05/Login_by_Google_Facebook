@@ -52,16 +52,16 @@ php artisan make:migration add_social_login_to_users_table --table=users
 ## 📸 Hình ảnh minh họa (Screenshots)
 
 **1. Giao diện trang Đăng nhập**
-![Giao diện đăng nhập](Screenshot_2026-04-21_100328.png)
+![Giao diện đăng nhập](\image\Screenshot 2026-04-21 100328.png)
 
 **2. Giao diện Dashboard Sinh viên**
-![Giao diện Dashboard 1](Screenshot_2026-04-21_100432.png)
-![Giao diện Dashboard 2](Screenshot_2026-04-21_100359.png)
+![Giao diện Dashboard 1](image\Screenshot 2026-04-21 100359.png)
+![Giao diện Dashboard 2](image\Screenshot 2026-04-21 100432.png)
 
 **3. Cấu hình URI trên Google Cloud**
 *Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/google/callback`
-![Cấu hình Google Cloud](Screenshots\Screenshot 2026-04-21 102702.png)
+![Cấu hình Google Cloud](image\Screenshot 2026-04-21 102702.png)
 
 **4. Cấu hình URI trên Meta Developers**
 *Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/facebook/callback`
-![Cấu hình Meta Developers](Screenshots\Screenshot 2026-04-21 102718.png)
+![Cấu hình Meta Developers](image\Screenshot 2026-04-21 102718.png)
