@@ -52,6 +52,7 @@ php artisan make:migration add_social_login_to_users_table --table=users
 ## 📸 Hình ảnh minh họa (Screenshots)
 
 **1. Giao diện trang Đăng nhập**
+<<<<<<< HEAD
 ![Giao diện đăng nhập](\image\Screenshot 2026-04-21 100328.png)
 
 **2. Giao diện Dashboard Sinh viên**
@@ -65,3 +66,22 @@ php artisan make:migration add_social_login_to_users_table --table=users
 **4. Cấu hình URI trên Meta Developers**
 *Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/facebook/callback`
 ![Cấu hình Meta Developers](image\Screenshot 2026-04-21 102718.png)
+=======
+![Giao diện đăng nhập]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 100328.png"
+)
+
+**2. Giao diện Dashboard Sinh viên**
+![Giao diện Facebook]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 100359.png")
+![Giao diện Google]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 100432.png"
+)
+
+**3. Cấu hình URI trên Google Cloud**
+*Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/google/callback`
+![Cấu hình Google Cloud]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 102702.png"
+)
+
+**4. Cấu hình URI trên Meta Developers**
+*Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/facebook/callback`
+![Cấu hình Meta Developers]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 102718.png"
+)
+>>>>>>> 3f69ed6135a08e0e8383c557a11bd4087c1e6fb7
