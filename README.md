@@ -52,20 +52,20 @@ php artisan make:migration add_social_login_to_users_table --table=users
 ## 📸 Hình ảnh minh họa (Screenshots)
 
 **1. Giao diện trang Đăng nhập**
-![Giao diện đăng nhập]("C:\Users\Anh\OneDrive\Hình ảnh\Screenshots\Screenshot 2026-04-21 100328.png"
+![Giao diện đăng nhập]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 100328.png"
 )
 
 **2. Giao diện Dashboard Sinh viên**
-![Giao diện Facebook]("C:\Users\Anh\OneDrive\Hình ảnh\Screenshots\Screenshot 2026-04-21 100359.png")
-![Giao diện Google]("C:\Users\Anh\OneDrive\Hình ảnh\Screenshots\Screenshot 2026-04-21 100432.png"
+![Giao diện Facebook]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 100359.png")
+![Giao diện Google]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 100432.png"
 )
 
 **3. Cấu hình URI trên Google Cloud**
 *Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/google/callback`
-![Cấu hình Google Cloud]("C:\Users\Anh\OneDrive\Hình ảnh\Screenshots\Screenshot 2026-04-21 102702.png"
+![Cấu hình Google Cloud]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 102702.png"
 )
 
 **4. Cấu hình URI trên Meta Developers**
 *Đường dẫn callback đã thiết lập:* `http://localhost:8000/auth/facebook/callback`
-![Cấu hình Meta Developers]("C:\Users\Anh\OneDrive\Hình ảnh\Screenshots\Screenshot 2026-04-21 102718.png"
+![Cấu hình Meta Developers]("C:\xampp\htdocs\bt_loginGG\image\Screenshot 2026-04-21 102718.png"
 )
